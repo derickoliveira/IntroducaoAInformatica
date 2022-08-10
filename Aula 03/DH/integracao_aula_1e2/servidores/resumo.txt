@@ -1,0 +1,2 @@
+Os servidores são computadores especifico e robusto e são instalados em alguns pontos especifico para atender
+a demanda de varios paises eles são interligados por cabus sub-aquaticos e trabalha atraves de request e response.

@@ -1,0 +1,1 @@
+A interface de usuario e tudo aquilo que aparece para interção na tela do computador ou qualquer outro dispositivo.

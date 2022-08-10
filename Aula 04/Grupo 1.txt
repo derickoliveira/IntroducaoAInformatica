@@ -1,0 +1,91 @@
+Amaury Viana dos Santos
+Luiz Felipe Jardim
+Derick da Silva de Oliveira
+
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntroducaoAInformatica/aula08_08 (master)
+$ mkdir projeto
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntroducaoAInformatica/aula08_08 (master)
+$ cd projeto
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntroducaoAInformatica/aula08_08/projeto (master)
+$ touch text1.txt
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntroducaoAInformatica/aula08_08/projeto (master)
+$ cd projeto
+bash: cd: projeto: No such file or directory
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntroducaoAInformatica/aula08_08/projeto (master)
+$ touch text2.txt
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntroducaoAInformatica/aula08_08/projeto (master)
+$ git init
+Initialized empty Git repository in C:/Users/User/DigitalHouse/IntroducaoAInformatica/Aula08_08/projeto/.git/
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntroducaoAInformatica/aula08_08/projeto (master)
+$ git add text1.txt
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntroducaoAInformatica/aula08_08/projeto (master)
+$ git add text2.txt
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntroducaoAInformatica/aula08_08/projeto (master)
+$ git config --global user.name "Derick Oliveira"
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntroducaoAInformatica/aula08_08/projeto (master)
+$ git config --global user.email "derickoliveira@outlook.com"
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntroducaoAInformatica/aula08_08/projeto (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   text1.txt
+        new file:   text2.txt
+
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntroducaoAInformatica/aula08_08/projeto (master)
+$ git commit -m "primeiro commit"
+[master (root-commit) 04f92bb] primeiro commit
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 text1.txt
+ create mode 100644 text2.txt
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntroducaoAInformatica/aula08_08/projeto (master)
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   text1.txt
+        modified:   text2.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")     
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntroducaoAInformatica/aula08_08/projeto (master)
+$ git commit
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   text1.txt
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)       
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   text1.txt
+        modified:   text2.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")  
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntroducaoAInformatica/aula08_08/projeto (master)
+$ git add text1.txt
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntroducaoAInformatica/aula08_08/projeto (master)
+$ git add text2.txt
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntroducaoAInformatica/aula08_08/projeto (master)$ git commit -m "segundo"
+[master ea4d2b4] segundo
+ 2 files changed, 2 insertions(+)
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntroducaoAInformatica/aula08_08/projeto (master)$

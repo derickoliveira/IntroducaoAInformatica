@@ -1,0 +1,5 @@
+Software são programas ou aplicações que são instalado em nossos dispositivos 
+algunas exemplos são  git, utorrent, spotfy entre outros
+
+Já o Hardware e todo dispositivo eletrônico que existe fisicamente podendo ser portatil
+fixo alguns exemplo são o pen-drive, note-books & etc....

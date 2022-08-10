@@ -1,0 +1,139 @@
+
+Arthur Miguel do Nascimento Campos
+Derick da Silva de Oliveira
+Jardel Pereira
+Jhonillenon Dias
+
+User@DESKTOP-40EKD8H MINGW64 ~/Dig
+$ touch teste.txt
+
+User@DESKTOP-40EKD8H MINGW64 ~/Dig
+$ pwd
+/c/Users/User/DigitalHouse/Introdu
+
+User@DESKTOP-40EKD8H MINGW64 ~/Dig
+$ ls
+DH/  Teste/  teste.txt
+
+User@DESKTOP-40EKD8H MINGW64 ~/Dig
+$ cd dh
+
+User@DESKTOP-40EKD8H MINGW64 ~/Dig
+$ mkdir historia_da_contabilidade
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigAInformatica/dh
+$ rmdir o_que_faremos_hoje
+rmdir: failed to remove 'o_que_far
+file or directory
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigAInformatica/dh
+$ rmdir  historia_da_contabilidade
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigAInformatica/dh
+$ cd integracao_aula_1e2
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigAInformatica/dh/integracao_aula_1e
+$ mkdir historia_da_contabilidade
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigAInformatica/dh/integracao_aula_1e
+$ mk o_que_faremos_hoje
+bash: mk: command not found
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigUser@DESKTOP-40EKD8H MINGW64 ~/_1eDigitalHouse/IntroducaoAInformatica/dh/integracao_aula_1e2    
+$ mkdir interfaces_de_usuario  Dig
+                               _1e
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntroducaoAInforma
+                  _aula_1e2    Dig
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntroducaoAInformatica/dh/integracao_aula_1e2/historia_da_contabilidade
+$ cd:/o_que_faremos_hoje
+bash: cd:/o_que_faremos_hoje: No such file or directory
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntroducaoAInformatica/dh/integracao_aula_1e2/historia_da_contabilidade
+$ touch resumo.txt
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntroducaoAInformatica/dh/integracao_aula_1e2/historia_da_contabilidade
+$ cd ../o_que_faremos_hoje
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntroducaoAInformatica/dh/integracao_aula_1e2/o_que_faremos_hoje
+$ touch resumo.txt
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntroducaoAInformatica/dh/integracao_aula_1e2/o_que_faremos_hoje
+$ cd ../servidores
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntroducaoAInformatica/dh/integracao_aula_1e2/servidores     
+$ touch resumo.txt
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntroducaducaoAInformatica/dh/integracao_aula_1e2/servidors   es
+$ cd ../ interfaces_de_usuario
+bash: cd: too many arguments
+                                                  uca
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/Introd   ducaoAInformatica/dh/integracao_aula_1e2/servidorses
+$ cd ../interfaces_de_usuario                     uca
+                                                  _us
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntrodducaoAInformatica/dh/integracao_aula_1e2/interfacses_de_usuario
+$ touch resumo.txt                                uca
+                                                  _us
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntrodducaoAInformatica/dh/integracao_aula_1e2/interfacses_de_usuario
+$ cd ../infraestrutura                            uca
+                                                  a  
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntrodducaoAInformatica/dh/integracao_aula_1e2/infraesturutura                                            uca
+$ touch resumo.txt                                a  
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntrodducaoAInformatica/dh/integracao_aula_1e2/infraesturutura
+$ mv infraestrutura git_bash_e_vscode
+mv: cannot stat 'infraestrutura': No such file or directory
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntroducaoAInformatica/dh/integracao_aula_1e2/infraestrutura
+$ mv historia_da_contabilidade historia_da_informatica
+mv: cannot stat 'historia_da_contabilidade': No such file or directory
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntroducaoAInformatica/dh/integracao_aula_1e2/infraestrutura
+$ cd istoria_da_informatica
+bash: cd: istoria_da_informatica: No such file or directory
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntroducaoAInformatica/dh/integracao_aula_1e2/infraestrutura
+$ cd historia_da_contabilidade
+bash: cd: historia_da_contabilidade: No such file or directory
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntroducaoAInformatica/dh/integracao_aula_1e2/infraestrutura
+$ pwd
+/c/Users/User/DigitalHouse/IntroducaoAInformatica/dh/integracao_aula_1e2/infraestrutura
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntroducaoAInformatica/dh/integracao_aula_1e2/infraestrutura
+$ mv infraestrutura
+mv: missing destination file operand after 'infraestrutura'
+Try 'mv --help' for more information.
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntroducaoAInformatica/dh/integracao_aula_1e2/infraestrutura
+$ mv infraestrutura git_bash_e_vscode
+mv: cannot stat 'infraestrutura': No such file or directory
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntroducaoAInformatica/dh/integracao_aula_1e2/infraestrutura
+$ cd ..
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntroducaoAInformatica/dh/integracao_aula_1e2
+$ mv historia_da_contabilidade istoria_da_informatica
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntroducaoAInformatica/dh/integracao_aula_1e2
+$ mv istoria_da_informatica historia_da_informatica
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntroducaoAInformatica/dh/integracao_aula_1e2
+$ cd ..
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntroducaoAInformatica/dh
+$ mv o_que_faremos_hoje software_e_hardware
+mv: cannot stat 'o_que_faremos_hoje': No such file or directory
+
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntroducaoAInformatica/dh
+$ cd integracao_aula_1e2
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntroducaoAInformatica/dh/integracao_aula_1e2
+$ mv o_que_faremos_hoje software_e_hardware
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntroducaoAInformatica/dh/integracao_aula_1e2
+$ mv infraestrutura git_bash_e_vscode
+
+User@DESKTOP-40EKD8H MINGW64 ~/DigitalHouse/IntroducaoAInformatica/dh/integracao_aula_1e2
+$ cd B

@@ -1,0 +1,4 @@
+git é uma ferramenta que nos permite através de sua interface dar comandos e instrucões para um computador.
+ E não se limita apena isso como tambem podemos criar pastas mover arquivos deletar, renomear entre outros atibutos
+ O VSCODE por sua vez trabalha como um editor de textos através da IDE podemos digitar o nosso codigo de baixo ou alto nivel onde o mesmo atraves de atributos específicos 
+ compila o código para linguagem de maquina tambem conhecido como código binário execultando assim o programa na nossa maquina.
